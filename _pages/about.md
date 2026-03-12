@@ -22,7 +22,7 @@ I am an undergraduate student at the School of Intelligent Science and Technolog
 
 My research interests lie in **Text-to-Image Generation**, **Text-to-Video Generation**, and **Agentic AI**. I am passionate about building powerful and controllable generative models that bridge language and visual content, as well as developing autonomous agents capable of complex reasoning and decision-making.
 
-I was awarded the **National Scholarship** (Top 0.2% nationwide) and ranked in the **Top 10% of my school** for multiple academic years.
+I was awarded the **National Scholarship (Top 0.2% nationwide)** and ranked in the **Top 10% of my school** for multiple academic years.
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Our paper [VGGT-Long](https://arxiv.org/abs/2507.16443) has been accepted by **ICRA 2026**!
