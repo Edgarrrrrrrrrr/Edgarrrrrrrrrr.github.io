@@ -25,6 +25,7 @@ My research interests lie in **Text-to-Image Generation**, **Text-to-Video Gener
 I was awarded the **National Scholarship (Top 0.2% nationwide)** and ranked in the **Top 10% of my school** for multiple academic years.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 I have been awarded the **Outstanding Graduate of Nanjing University**!
 - *2026.01*: &nbsp;🎉🎉 Our paper [VGGT-Long](https://arxiv.org/abs/2507.16443) has been accepted by **ICRA 2026**!
 - *2025.09*: &nbsp;🎉🎉 I have been admitted to the M.S. program at the School of Intelligent Science and Technology, **Nanjing University**!
 - *2024.12*: &nbsp;🎉🎉 I have been awarded the **National Scholarship** (Top 0.2% nationwide, the most prestigious undergraduate scholarship in China)!
@@ -59,4 +60,5 @@ Kai Deng, **Zexin Ti**, Jiawei Xu, Jian Yang, Jin Xie
 
 
 # 💻 Internships
+- *2026.05 - present*, Research Intern, ByteDance, China. Focused on 3D generative foundation models.
 - *2025.02 - 2025.06*, Research Intern, EPIC Lab, Shanghai Jiao Tong University, China. Focused on video data distillation and compression.
