@@ -22,7 +22,7 @@ I am an undergraduate student at the School of Intelligent Science and Technolog
 
 My research interests lie in **Text-to-Image Generation**, **Text-to-Video Generation**, and **Agentic AI**. I am passionate about building powerful and controllable generative models that bridge language and visual content, as well as developing autonomous agents capable of complex reasoning and decision-making.
 
-I was awarded the **National Scholarship (Top 0.2% nationwide)** and ranked in the **Top 10% of my school** for multiple academic years.
+I was awarded the **National Scholarship (Top 0.2% nationwide)** and ranked in the **Top 10% of my school** for multiple academic years.**I am currently an intern at ByteDance**.
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 I have been awarded the **Outstanding Graduate of Nanjing University**!
