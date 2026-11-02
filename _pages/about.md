@@ -26,7 +26,6 @@ I was awarded the **National Scholarship (Top 0.2% nationwide)** and ranked in t
 
 # 🔥 News
 - *2026.11*: &nbsp;🎉🎉 I have been awarded a **First-Class Scholarship for Master's Students**!
-- *2026.11*: &nbsp;🎉🎉 I have been selected for **Tencent's Qingyun Internship Program**! Wish me luck!
 - *2026.09*: &nbsp;🎉🎉 One paper has been accepted by **NeurIPS 2026**!
 - *2026.05*: &nbsp;🎉🎉 I have been awarded the **Outstanding Graduate of Nanjing University**!
 - *2026.01*: &nbsp;🎉🎉 Our paper [VGGT-Long](https://arxiv.org/abs/2507.16443) has been accepted by **ICRA 2026**!
