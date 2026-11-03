@@ -25,7 +25,6 @@ My research interests lie in **Text-to-Image Generation**, **Text-to-Video Gener
 I was awarded the **National Scholarship (Top 0.2% nationwide)** and ranked in the **Top 10% of my school** for multiple academic years.**I am currently an intern at ByteDance**.
 
 # 🔥 News
-- *2026.11*: &nbsp;🎉🎉 I have been awarded a **First-Class Scholarship for Master's Students**!
 - *2026.11*: &nbsp;🎉🎉 I have been selected for **Tencent's Qingyun Internship Program**! Wish me luck!
 - *2026.09*: &nbsp;🎉🎉 One paper has been accepted by **NeurIPS 2026**!
 - *2026.05*: &nbsp;🎉🎉 I have been awarded the **Outstanding Graduate of Nanjing University**!
@@ -49,6 +48,7 @@ Kai Deng, **Zexin Ti**, Jiawei Xu, Jian Yang, Jin Xie
 </div>
 
 # 🎖 Honors and Awards
+- *2026.11* **First-Class Scholarship for Master's Students**, Nanjing University
 - *2025.11* **People's Scholarship (First Class)**, Nanjing University
 - *2024.12* **National Scholarship**, Ministry of Education of China 
 - *2024.7* **Third Prize**, National College Student Service Outsourcing Innovation Competition
